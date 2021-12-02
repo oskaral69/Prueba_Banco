@@ -1,7 +1,7 @@
 # Prueba_Banco
 Repositorio, creado especificamente para resolucion de prueba laboral,
 Se crean archivo index.html en master,
-se realiza creacion de rama hotfix, se resliza un cambio en archivo y se realiza merge en master,
+se realiza creacion de rama hotfix, se realiza un cambio en archivo y se realiza merge en master,
 se crean 2 ramas: feature1 y feature2 despues de los cambios realizados de hotfix,
 se realiza cambios en index.html en rama feature1 y se realiza merge en master,
 se realiza cambios en index.html en rama feature2, se intenta realizar merge, se evidencia error,
